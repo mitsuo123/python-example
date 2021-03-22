@@ -7,3 +7,5 @@ print(f'ただ今の時間は、{dt.hour}時{dt.minute}分です。',end="")
 dt = datetime.datetime.now()
 import datetime
 print("これはテストです")
+
+

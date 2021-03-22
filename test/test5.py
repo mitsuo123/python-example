@@ -21,5 +21,5 @@ elif money == total_price:
     print('りんごを'+str(count)+'個買いました')
     print('残額はなくなりました')
     
-else money < total_price: 
+else: 
     print('買えませんでした')
